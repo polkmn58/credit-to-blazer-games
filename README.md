@@ -1,5 +1,5 @@
 # BlockedGames
 
-##Rules
+## Rules
 there are none...
 
